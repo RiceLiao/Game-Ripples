@@ -2,8 +2,6 @@
 <img src="https://github.com/RiceLiao/Game-Ripples-20180720/blob/master/img/cover.jpg"> | <img src="https://github.com/RiceLiao/Game-Ripples-20180720/blob/master/img/1.jpg"> | <img src="https://github.com/RiceLiao/Game-Ripples-20180720/blob/master/img/2.jpg"> | <img src="https://github.com/RiceLiao/Game-Ripples-20180720/blob/master/img/3.jpg"> 
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 
-<video src="https://github.com/RiceLiao/Game-Ripples-20180720/blob/master/video/show.mp4">
-
 # Summary
 It is a 2d leisure mobile game, with simple rules but high challenge :)
 There is a demo video in `/video/show.mp4`
